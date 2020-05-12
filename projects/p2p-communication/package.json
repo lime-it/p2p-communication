@@ -1,0 +1,25 @@
+{
+  "name": "@lime.it/p2p-communication",
+  "version": "0.1.0",
+  "dependencies": {
+    "rxjs": "~6.5.4"
+  },
+  "description": "Structured communication support for modern multi-agent web application",
+  "keywords": [
+    "ipc",
+    "webrtc",
+    "websocket",
+    "webworker",
+    "p2p"
+  ],
+  "author": "gcanossa @gcanossa",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lime-it/p2p-communication.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lime-it/p2p-communication/issues"
+  },
+  "homepage": "https://github.com/lime-it/p2p-communication#readme"
+}
