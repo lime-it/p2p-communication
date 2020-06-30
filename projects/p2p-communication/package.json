@@ -1,6 +1,6 @@
 {
   "name": "@lime.it/p2p-communication",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "rxjs": "~6.5.4"
   },
@@ -13,7 +13,7 @@
     "p2p"
   ],
   "author": "gcanossa @gcanossa",
-  "license": "AGPL-3.0",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lime-it/p2p-communication.git"
